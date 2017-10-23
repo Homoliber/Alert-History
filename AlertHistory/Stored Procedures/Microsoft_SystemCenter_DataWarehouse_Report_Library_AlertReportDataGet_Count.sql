@@ -1,12 +1,4 @@
-﻿USE [OperationsManagerDW]
-GO
-/****** Object:  StoredProcedure [dbo].[Microsoft_SystemCenter_DataWarehouse_Report_Library_AlertReportDataGet_V3]    Script Date: 23/10/2017 14:36:39 ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-
-
+﻿
 
 CREATE PROCEDURE [dbo].[Microsoft_SystemCenter_DataWarehouse_Report_Library_AlertReportDataGet_V3]
 	@StartDate DATETIME,

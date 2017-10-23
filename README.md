@@ -22,3 +22,5 @@ exec Microsoft_SystemCenter_DataWarehouse_Report_Library_AlertReportDataGet_V3 @
 @ObjectList=N'<Data><Objects><Object Use="Containment">{{id}}</Object></Objects></Data>',
 @SiteName=NULL,
 @myUID={{id}}
+
+

@@ -23,4 +23,3 @@ exec Microsoft_SystemCenter_DataWarehouse_Report_Library_AlertReportDataGet_V3 @
 @SiteName=NULL,
 @myUID={{id}}
 
-

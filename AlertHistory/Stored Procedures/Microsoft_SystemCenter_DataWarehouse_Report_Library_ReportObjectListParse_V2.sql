@@ -21,7 +21,7 @@ AS
 BEGIN 
   SET NOCOUNT ON
 /*
-Modified : 12/10/2017 by Van Heghe Eddy (SQL Dba)
+Modified : 12/10/2017
 Call to: 
   EXECUTE @ExecError = [Microsoft_SystemCenter_DataWarehouse_Report_Library_ReportObjectListParse_V2]
   set in request of Jasper : 12/10/2017
